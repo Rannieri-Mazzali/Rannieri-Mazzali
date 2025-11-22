@@ -1,7 +1,18 @@
+Olá! Sou Rannieri Mazzali, desenvolvedor front-end em crescimento com foco nas tecnologias HTML, CSS, JavaScript e Angular. Atualmente estou estudando e construindo projetos práticos para aprimorar minhas habilidades e entregar valor real.
+
+Criei landing pages, formulários interativos e pequenas aplicações web usando Angular, demonstrando minha capacidade de estruturar, estilizar e tornar páginas funcionais. Publico meus projetos no GitHub para mostrar meu código e meu processo de aprendizado.
+
+Estou em busca de projetos freelancers onde posso:
+
+Ajudar você a construir sites simples, responsivos e funcionais;
+
+Criar componentes ou páginas para aplicações web em Angular;
+
+Fazer a manutenção ou correção de sites existentes.
+
+Me comprometo com comunicação clara, entrega pontual e código limpo. Estou sempre disposto a aprender e crescer com cada novo projeto.
 
 
-Olá, meu nome é Rannieri, sou desenvolvedor Frontend Junior, iniciei na programação e estou em busca de novas experiências, novos projetos e novos desafios!
-Atualmente estou criando projetos com:
 <br>
 <br>
 <img src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="java" />
