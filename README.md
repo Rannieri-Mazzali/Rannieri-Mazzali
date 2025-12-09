@@ -23,7 +23,8 @@ Me comprometo com comunicação clara, entrega pontual e código limpo. Estou se
 
 contatos
 <P>
-<a hrfe="https://www.instagram.com/rannieri_mazzalli/"> <img src="C:\Users\Rannieri Mazzali\Desktop\images.jpg"> </img>  </a> </P>
+<a hrfe="https://www.instagram.com/rannieri_mazzalli/">  </a> Clique aqui! </P>
+ <img src="C:\Users\Rannieri Mazzali\Desktop\images.jpg"> </img>
 
 ![Rannieri-Mazzali's Stats](https://github-readme-stats.vercel.app/api?username=Rannieri-Mazzali&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 ![Rannieri-Mazzali's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rannieri-Mazzali&theme=dracula&show_icons=true&hide_border=true&layout=compact)
