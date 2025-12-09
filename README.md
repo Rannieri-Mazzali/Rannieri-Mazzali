@@ -21,15 +21,8 @@ Me comprometo com comunicação clara, entrega pontual e código limpo. Estou se
 <img src= "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css" />
 <img src= "https://img.shields.io/badge/react%20os-0088CC?style=for-the-badge&logo=reactos&logoColor=white" alt="react" />
 
-contatos
-<P>
-<a hrfe="https://www.instagram.com/rannieri_mazzalli/">  </a> Clique aqui! </P>
- <img src="C:\Users\Rannieri Mazzali\Desktop\images.jpg"> </img>
-
-![Rannieri-Mazzali's Stats](https://github-readme-stats.vercel.app/api?username=Rannieri-Mazzali&theme=dracula&show_icons=true&hide_border=true&count_private=true)
-![Rannieri-Mazzali's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rannieri-Mazzali&theme=dracula&show_icons=true&hide_border=true&layout=compact)
-
-<!--
+ 
+ 
 **Rannieri-Mazzali/Rannieri-Mazzali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
