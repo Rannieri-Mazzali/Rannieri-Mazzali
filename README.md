@@ -1,26 +1,78 @@
-Olá! Sou Rannieri Mazzali, desenvolvedor front-end em crescimento com foco nas tecnologias HTML, CSS, JavaScript e Angular. Atualmente estou estudando e construindo projetos práticos para aprimorar minhas habilidades e entregar valor real.
+# 💼 Portfólio Profissional — Rannieri Mazzali de Oliveira
 
-Criei landing pages, formulários interativos e pequenas aplicações web usando Angular, demonstrando minha capacidade de estruturar, estilizar e tornar páginas funcionais. Publico meus projetos no GitHub para mostrar meu código e meu processo de aprendizado.
+<p align="center">
+  <strong>Analista Controller • Supervisor Financeiro • Web Developer</strong><br>
+  Finanças | Controlo de Stock | Análise de Dados | Desenvolvimento Web
+</p>
 
-Estou em busca de projetos freelancers onde posso:
+<p align="center">
+  <a href="mailto:rannieri.mazzali@outlook.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/rannieri-mazzali-de-oliveira-54bb3a2b8/" target="_blank">💼 LinkedIn</a> •
+  <a href="https://github.com/Rannieri-Mazzali" target="_blank">💻 GitHub</a> •
+  <a href="https://wa.me/351936745950" target="_blank">📱 WhatsApp</a>
+</p>
 
-Ajudar você a construir sites simples, responsivos e funcionais;
+---
 
-Criar componentes ou páginas para aplicações web em Angular;
+## 👨‍💻 Sobre Mim
 
-Fazer a manutenção ou correção de sites existentes.
+Sou um profissional com **mais de 3 anos de experiência em finanças, controlo financeiro, gestão de stock e análise de dados**, atuando como **Analista Controller e Supervisor Financeiro**.
 
-Me comprometo com comunicação clara, entrega pontual e código limpo. Estou sempre disposto a aprender e crescer com cada novo projeto.
+Paralelamente, atuo como **Web Developer**, desenvolvendo websites modernos, funcionais e responsivos com **HTML, CSS, JavaScript e React**, sempre focado na **resolução de problemas reais**, otimização de processos empresariais e melhoria da experiência do utilizador.
 
+Perfil **analítico, proativo, criativo e orientado a resultados**, com experiência em ambientes **presenciais e remotos**.
 
-<br>
-<br>
-<img src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="java" />
-<img src= "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html" />
-<img src= "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" />
-<img src= "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css" />
-<img src= "https://img.shields.io/badge/react%20os-0088CC?style=for-the-badge&logo=reactos&logoColor=white" alt="react" />
+---
+
+## 🧠 Experiência Profissional
+
+### 📊 Supervisor Financeiro | Analista Controller
+**Duração:** 3 anos  
+- Controlo financeiro e análise de custos operacionais  
+- Redução significativa de despesas e otimização de processos  
+- Gestão de stock e inventários  
+- Utilização do **SAP ECC** para controlo financeiro e logístico  
+- Abertura e fecho diário de stock  
+
+### 🏗️ Supervisor de Equipa — Construção Civil
+**Duração:** 3 anos | Turno Noturno  
+- Liderança de equipa com cerca de **20 colaboradores**  
+- Planeamento de tarefas e acompanhamento de produtividade  
+- Cumprimento rigoroso de prazos e normas de segurança  
+- Experiência em trabalho **presencial e remoto**  
+
+### 🚗🏢🎪 Vendas & Operações Comerciais
+- Venda de automóveis e peças automotivas  
+- Venda de imóveis  
+- Montagem e operação de eventos corporativos  
+  *Ribeirão Shopping — Multiplan*  
+
+---
+
+## 🏆 Conquistas em Destaque
+
+- ✨ **Redução de custos operacionais** através de melhorias internas  
+- 📦 **Eficiência logística ampliada** com controlo preciso de inventários  
+- 📊 **Apoio estratégico à gestão** por meio de relatórios financeiros  
+- 💻 **Desenvolvimento web funcional**, focado em performance e usabilidade  
+
+---
+
+## 🛠️ Competências Técnicas
+
+**Desenvolvimento Web**
+- HTML5 • CSS3 • JavaScript • React
+- Git & GitHub
+
+**Finanças & Gestão**
+- SAP ECC  
+- Análise de Dados  
+- Controlo Financeiro  
+- Gestão de Stock  
 
  
+
+ 
+
  
 
