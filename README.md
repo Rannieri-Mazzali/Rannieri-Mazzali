@@ -1,4 +1,4 @@
-# 💼 Portfólio Profissional — Rannieri Mazzali de Oliveira
+# 💼 Rannieri Mazzali de Oliveira
 
 <p align="center">
   <strong>Analista Controller • Supervisor Financeiro • Web Developer</strong><br>
