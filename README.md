@@ -16,7 +16,7 @@ Atualmente, desenvolvo aplicações web modernas utilizando:
 
 - JavaScript
 - TypeScript
-- React
+- React.
 - Node.js
 
 Tenho foco em criar aplicações escaláveis, bem estruturadas e orientadas ao utilizador, aplicando boas práticas de desenvolvimento.
